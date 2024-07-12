@@ -47,7 +47,7 @@ namespace ConsoleApp1
                 Gender = Gender.man,
                 Father = GrandpaTwo,
                 Mother = GrandmaTwo
-                
+
             };
             FamilyMember Husband = new FamilyMember()
             {
@@ -56,7 +56,7 @@ namespace ConsoleApp1
                 Gender = Gender.man
 
             };
-            FamilyMember Me= new FamilyMember()
+            FamilyMember Me = new FamilyMember()
             {
                 Name = "Vasilisa Kirova",
                 Age = 20,
@@ -66,7 +66,7 @@ namespace ConsoleApp1
                 Spouse = Husband
 
             };
-             var grandMothers = Me.GetGrandmothers();
+            var grandMothers = Me.GetGrandmothers();
             var grandfathers = Me.GetGrandfathers();
             Console.WriteLine(grandMothers[0].Name);
             Console.WriteLine(grandMothers[1].Name);
@@ -75,7 +75,7 @@ namespace ConsoleApp1
             Console.WriteLine(grandfathers[1].Name);
             Console.WriteLine();
             Console.WriteLine(Me.Spouse.Name);
-            
+
         }
     }
 }
