@@ -11,12 +11,13 @@ namespace GB_tasks.Seminar2
         bool GetBitByIndex (byte index);
         void SetBitByIndex (byte index, bool value);
     }
-    public class Bits : IBitGet { 
+    public class Bits : IBitGet
+    {
 
 
 
         public long Value { get; set; }
-        public int Size {  get; set; }
+        public int Size { get; set; }
         public Bits(byte value)
         {
             Value = value;
@@ -41,27 +42,34 @@ namespace GB_tasks.Seminar2
 
         public void SetBitByIndex(byte index, bool value)
         {
-            if(value) { 
+            if (value)
+            {
                 Value |= (byte)(1 << index);
             }
-            else {
-            Value &= (byte)~(1 << index);
-                    }
+            else
+            {
+                Value &= (byte)~(1 << index);
+            }
         }
-        public bool this[byte index] {
+        public bool this[byte index]
+        {
             get => GetBitByIndex(index);
             set => SetBitByIndex(index, value);
         }
-        public static implicit operator long(Bits bits)
-        {
-            return bits.Value;
-        }
-        public static explicit operator Bits(long value)
-        {
-            return new(value);
-        }
+        public static implicit operator long(Bits bits) => bits.Value;
+        public static explicit operator Bits(long value) =>new(value);
+       
+
+
+        public static implicit operator int(Bits bits) => (int)bits.Value;
+        public static explicit operator Bits(int value) => new(value);
+
+        public static implicit operator byte(Bits bits) => (byte)bits.Value;
+        public static explicit operator Bits(byte value) => new(value);
+
+
+
     }
+     
 
-
-    
 }
