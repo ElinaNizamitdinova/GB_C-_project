@@ -1,0 +1,15 @@
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\bin\Debug\net8.0\SeminarSeven.exe
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\bin\Debug\net8.0\SeminarSeven.deps.json
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\bin\Debug\net8.0\SeminarSeven.runtimeconfig.json
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\bin\Debug\net8.0\SeminarSeven.dll
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\bin\Debug\net8.0\SeminarSeven.pdb
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.AssemblyInfoInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.AssemblyInfo.cs
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.csproj.CoreCompileInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.sourcelink.json
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.dll
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\refint\SeminarSeven.dll
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.pdb
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\SeminarSeven.genruntimeconfig.cache
+E:\Элина\С#_project_GB\GB_tasks\SeminarSeven\obj\Debug\net8.0\ref\SeminarSeven.dll
