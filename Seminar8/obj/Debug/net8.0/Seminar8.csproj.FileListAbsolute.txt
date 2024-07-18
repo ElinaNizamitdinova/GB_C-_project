@@ -1,0 +1,15 @@
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\bin\Debug\net8.0\Seminar8.exe
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\bin\Debug\net8.0\Seminar8.deps.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\bin\Debug\net8.0\Seminar8.runtimeconfig.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\bin\Debug\net8.0\Seminar8.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\bin\Debug\net8.0\Seminar8.pdb
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.AssemblyInfoInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.AssemblyInfo.cs
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.csproj.CoreCompileInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.sourcelink.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\refint\Seminar8.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.pdb
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\Seminar8.genruntimeconfig.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar8\obj\Debug\net8.0\ref\Seminar8.dll
