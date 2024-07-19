@@ -9,18 +9,20 @@ namespace SeminarSeven
 
     //Дан класс(ниже), создать методы создающий этот класс вызывая один из его конструкторов(по одному конструктору на метод).
     // Задача не очень сложна и служит больше для разогрева перед следующей задачей.
-    [AttributeUsage(AttributeTargets.Method)]
-    public class CustomNameAttridute : Attribute
+    public class CustomAttribute : Attribute
     {
-        public string Name { get; set; };
+        public string PropertyName { get; set; }
+        public CustomAttribute(string name)
+        {
+            PropertyName = name;
+        }
     }
 
 
 
 
 
-
-        public class TestClass
+    public class TestClass
         {
             public int I { get; set; }
             public string? S { get; set; }
@@ -83,7 +85,7 @@ namespace SeminarSeven
             }
 
     
-        [CustomNameAttridute]
+        
         public static string ObjectToString(object o)
             {
                 Type t = o.GetType();
