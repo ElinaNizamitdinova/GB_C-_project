@@ -7,8 +7,19 @@ using System.Threading.Tasks;
 namespace SeminarSeven
 {
 
-        //Дан класс(ниже), создать методы создающий этот класс вызывая один из его конструкторов(по одному конструктору на метод).
-        // Задача не очень сложна и служит больше для разогрева перед следующей задачей.
+    //Дан класс(ниже), создать методы создающий этот класс вызывая один из его конструкторов(по одному конструктору на метод).
+    // Задача не очень сложна и служит больше для разогрева перед следующей задачей.
+    [AttributeUsage(AttributeTargets.Method)]
+    public class CustomNameAttridute : Attribute
+    {
+        public string Name { get; set; };
+    }
+
+
+
+
+
+
         public class TestClass
         {
             public int I { get; set; }
@@ -70,7 +81,10 @@ namespace SeminarSeven
                 }
                 return some;
             }
-            public static string ObjectToString(object o)
+
+    
+        [CustomNameAttridute]
+        public static string ObjectToString(object o)
             {
                 Type t = o.GetType();
                 StringBuilder res = new StringBuilder();
