@@ -27,7 +27,7 @@ namespace Seminar8
                     result.Add(item);
                 }
             }
-            Console.WriteLine(String.Join("\n", result)+"is result");
+            Console.WriteLine(String.Join("\n", result));
             
 
         }
