@@ -24,6 +24,8 @@ namespace SeminarSeven
 
     public class TestClass
         {
+            
+        [CustomAttribute("CustomFieldName")]
             public int I { get; set; }
             public string? S { get; set; }
             public decimal D { get; set; }
