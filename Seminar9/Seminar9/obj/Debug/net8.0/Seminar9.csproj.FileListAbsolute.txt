@@ -1,0 +1,15 @@
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\bin\Debug\net8.0\Seminar9.exe
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\bin\Debug\net8.0\Seminar9.deps.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\bin\Debug\net8.0\Seminar9.runtimeconfig.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\bin\Debug\net8.0\Seminar9.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\bin\Debug\net8.0\Seminar9.pdb
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.AssemblyInfoInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.AssemblyInfo.cs
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.csproj.CoreCompileInputs.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.sourcelink.json
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\refint\Seminar9.dll
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.pdb
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\Seminar9.genruntimeconfig.cache
+E:\Элина\С#_project_GB\GB_tasks\Seminar9\Seminar9\obj\Debug\net8.0\ref\Seminar9.dll
